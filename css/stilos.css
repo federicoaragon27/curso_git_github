@@ -1,7 +1,7 @@
 body {
     color: #333;
     text-align: left;
-    font-family: 'Courier';
+    font-family: 'Arial';
 }
 
 #container {
@@ -16,7 +16,7 @@ body {
 }
 
 #cabecera {
-    background: #AD2;
+    background: #345;
     color: white;
     margin: 0;
     border: 1px solid #DDD;
